@@ -5,4 +5,4 @@ do modelo
 
 
 Os pré-requistos são ter o python instalado numa versão maior que a 2.6
-bem como as bibliotecas numpy, pandas e scilearn (pode ser feito usando pip)
+bem como as bibliotecas numpy, pandas e sklearn (pode ser feito usando pip)
